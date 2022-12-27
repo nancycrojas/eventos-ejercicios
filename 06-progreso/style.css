@@ -1,0 +1,27 @@
+.barra {
+    height: 50px;
+    width: 300px;
+    position: relative;
+    border: 1px solid #525252;
+    margin: 50px;
+}
+
+.barra .progreso {
+    height: 100%;
+    position: absolute;
+    background-color: aqua;
+    top: 0;
+    left: 0;
+    width: 0%;
+}
+
+.btn {
+    border: 2px solid #525252;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: #FFF;
+}
+
+.btn_container {
+    margin: 50px;
+}
