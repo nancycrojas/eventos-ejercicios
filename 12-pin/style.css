@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+button{
+    padding: 15px;
+    margin: 10px;
+    font-size: 16px;
+    background-color: #007BC4;
+    color: #FFF;
+    border-radius: 5px;
+}
+
+p{
+    font-size: 24px;
+}
+
+div {
+    width: 100px;
+    background-color: #007BC4;
+    color: #FFF;
+    border-radius: 5px;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 10px;
+}
