@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: #041C2C;
+}
+
+img {
+    width: 120px;
+    height: 190px;
+    margin: 5px;
+    
+}
+
+#imagenes {
+    background-color: #041C2C;  
+}
+
+#favoritos {
+    background-color: #041C2C;
+    height: 300px; 
+}
+
+h2 {
+    font-size: 25px;
+    margin: 20px 0;
+    color: white;
+    padding: 10px 20px;
+    background-color: #007BC4;
+}
